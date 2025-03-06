@@ -1,6 +1,5 @@
 package codingtestexam.Programmers;
 
 public class TEST {
-    //아무거나
-    //제발돼라
+    //제발돼라!!!
 }
