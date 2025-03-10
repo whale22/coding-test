@@ -6,7 +6,4 @@ public class TEST {
     //또...
     //ㅠㅠ
     //돼라!!!
-    //ㄱ머난머아ㅣㅓ안멍
-    //asdsdasdsadsa
-    //sadsadsadsdasds
 }
